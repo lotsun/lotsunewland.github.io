@@ -1,4 +1,4 @@
-My Portfolio was built with HTML CSS AND javascript. 
+My Portfolio was built with HTML CSS & javascript. 
 it is adaptable (responsive) to all platforms and also has client validation features.
 
 All clickables are yet to be linked.
